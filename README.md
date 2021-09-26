@@ -1,2 +1,3 @@
 # mediaplayer
-mediaplayer using python
+mediaplayer using python  
+uses tkinter, threading, and pillow
